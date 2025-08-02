@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Doctalk-Frontend/static/css/main.b08a2e22.css",
+    "main.js": "/Doctalk-Frontend/static/js/main.ed4613ce.js",
+    "static/media/patient-login.png": "/Doctalk-Frontend/static/media/patient-login.ab01c698208a6f46ffe6.png",
+    "static/media/error.png": "/Doctalk-Frontend/static/media/error.866729c54e518e0113b4.png",
+    "static/media/logo.png": "/Doctalk-Frontend/static/media/logo.a8d805d97ea7dfd012c9.png",
+    "static/media/doc_profle.png": "/Doctalk-Frontend/static/media/doc_profle.80c0a0969088b40493cb.png",
+    "static/media/user.png": "/Doctalk-Frontend/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/Doctalk-Frontend/index.html",
+    "main.b08a2e22.css.map": "/Doctalk-Frontend/static/css/main.b08a2e22.css.map",
+    "main.ed4613ce.js.map": "/Doctalk-Frontend/static/js/main.ed4613ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08a2e22.css",
+    "static/js/main.ed4613ce.js"
+  ]
+}
